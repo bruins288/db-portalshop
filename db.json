@@ -1,14 +1,14 @@
 {
   "posts":[
     {
-      "id" : 0,
+      "id" : 1,
       "title": "First post!",
       "content" : "My first content!"
     }
   ],
   "comments" : [
     {
-      "id": 0,
+      "id": 3,
       "content": "Wow such content!",
       "username": "zero_cool"
     }
